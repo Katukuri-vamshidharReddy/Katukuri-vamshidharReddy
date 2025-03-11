@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm K. Vamshidhar Reddy, a passionate B.Tech gradu
 
 - **Secondary Education (1-10)**  
   *Cal Public School*  
-  Total Score: 80%
+  Total Score: 75%
 
 ## Skills
 
